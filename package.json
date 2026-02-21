@@ -1,0 +1,24 @@
+{
+  "name": "exported-file-verifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "verify": "python3 verify_exports.py",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Compares downloaded CSV exports against reference definitions",
+  "branch-naming-check": {
+    "pattern": "^(main|develop|feature/.*|bugfix/.*|hotfix/.*|release/.*)$",
+    "errorMsg": "Branch name must follow: feature/*, bugfix/*, hotfix/*, release/*, main, or develop"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.4.2",
+    "@commitlint/config-conventional": "^20.4.2",
+    "branch-naming-check": "^1.0.2",
+    "husky": "^9.1.7"
+  }
+}
