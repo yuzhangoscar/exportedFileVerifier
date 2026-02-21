@@ -1,0 +1,49 @@
+﻿Created Date,Label,Description,Package ID,Package,Verification Workflow ID,Verification Workflow,Partner ID,Partner,Type,Disabled
+26-Oct-2021 14:43:08,"Organisation Name ",This is an alias that can be used as your organisation name in the system that was set up for you," "," "," "," ",8,MVSI,Text,false
+26-Oct-2021 14:43:08,Password Reset Email,This is the email that gets sent when a new password has been requested by a user," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Account Created Email,This is the email that gets sent to any user advises an account has been created for them. Provides a link to set a password," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Final Package Email,This is the email that gets sent to subscribed parties when an offer has been submitted," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Bulk Applicant Email,This is the email that gets sent to applicants when using the bulk offer function in Onboard from a partner," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,KYC Individual Invite Email,This is the email that gets sent to individuals when they are requested to complete a KYC check," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,KYC Link Already Completed Message,This is the message displayed at the top of a form when a customer has already completed their KYC but accesses the link sent to them again," "," "," "," ",8,MVSI,HTML,false
+26-Oct-2021 14:43:08,KYC Link Expired Message,This is the message that will show on the page when the link associated with KYC has expired," "," "," "," ",8,MVSI,HTML,false
+26-Oct-2021 14:43:08,KYC Link SMS message,This is the SMS that gets sent to an applicant requesting them to complete the KYC process," "," "," "," ",8,MVSI,Text,false
+26-Oct-2021 14:43:08,Officer Approval Required Email,"If you are a listed approver, and your approval is required for any reason, this is the email that is sent to inform you"," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Check In Alert Email,This is the email that gets sent to users every 30 days to keep their account active gives a 5 day time period to keep active. This ensures security by preventing users from gaining access to Onboard after they leave their roles etc.," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Offer Note Reply Email Notification Body,"If you are subscribed to an offer, this is the email that will be sent when a new note has been put on the offer"," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Verification Note Reply Email Notification Body,"If you have permission to view verifcation notes, and you have subscribed to a verification, this email advises that a new note has been added"," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,New Verification Note Email Notification Body,"If you have subscribed to a verification, and a new verification note is inputted, this is the template that will be used in the email."," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Offer Subscription - Verification Started Email Body,This is the email that gets sent when a user is subscribed to an offer and the verification for that offer has been started," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Offer Subscription - Verification Completed Email Body,This is the email that gets sent when a user is subscribed to an offer and the verification for that offer has been completed," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Offer Subscription - New Note Added Email Body,"When subscribed to an offer and a new offer note is placed on it, this email is sent to the subscriber"," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Offer Subscription - Offer Completed Email Body,"If you are subscribed to an offer, this is the email that will be sent when the offer has been completed"," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Payment Invoice Email,"The system has the ability to take payments form applicants in offers, this is the payment invoice email that provides a tax invoice for their payment"," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,OCDD Daily Alert Email,"If you have been set up to be flagged if there is an OCDD alert, this is the email that is sent to notify that action is required"," "," "," "," ",8,MVSI,Email,false
+26-Oct-2021 14:43:08,Login Page Content,This is where you can customize the login page for your partner specific instance of Onboard," "," "," "," ",8,MVSI,Text,false
+14-Dec-2021 10:42:14,List Export Completed Email,"If you have requested an export from the system, this is the email sent informing you the export is complete and ready to be downloaded"," "," "," "," ",8,MVSI,Email,false
+14-Dec-2021 10:42:14,List Export Failed Email,"If you have requested an export from the system, this is the email sent informing you the export has been failed"," "," "," "," ",8,MVSI,Email,false
+14-Dec-2021 10:42:14,Communications Mail Signature,This is the footer that goes on the bottom of any communications email," "," "," "," ",8,MVSI,HTML,false
+28-Mar-2022 14:07:21,Lost Email Reply,"Should someone respond directly to the system without using the code located in the subject of the email, this is the reply stating that they have sent an email to an unmonitored email inbox"," "," "," "," ",8,MVSI,Email,false
+30-Mar-2022 10:01:59,Verification Workflow Update Completed,"If a verification workflow is updated, and the option to update existing workflows is selected, this is the email sent informing that the update has been completed"," "," "," "," ",8,MVSI,Email,false
+23-May-2022 16:30:49,KYC Headsup Email,," "," "," "," ",8,MVSI,Email,false
+23-May-2022 16:30:49,External Approval Mail,"When the system requires approval from someone who isn't an OnBoard user, this is the email that will be sent to them"," "," "," "," ",8,MVSI,Email,false
+23-May-2022 16:30:49,KYC Form Text For Authorized Signatory,"If using old forms, this is where you change the KYC welcome text for the authorised signatory, which kicks off as soon as an application has been completed "," "," "," "," ",8,MVSI,HTML,false
+23-May-2022 16:30:49,KYC Form Title  For Authorized Signatory,This is the title of KYC welcome page for the authorised signatory," "," "," "," ",8,MVSI,Text,false
+23-May-2022 16:30:49,Declaration Information Collection Welcome Title,This is the title displayed on the welcome page of a declaration form," "," "," "," ",8,MVSI,Text,false
+23-May-2022 16:30:50,Declaration Information Collection Welcome Content,"If you are using declarations, and non-smart forms, this is where the declaration welcome page content can be edited"," "," "," "," ",8,MVSI,HTML,false
+23-May-2022 16:30:50,Individual Declaration Welcome Text,This sets the declaration welcome page text," "," "," "," ",8,MVSI,HTML,false
+23-May-2022 16:30:50,Individual KYC Welcome Text,This sets the declaration welcome page text," "," "," "," ",8,MVSI,HTML,false
+23-May-2022 16:30:50,Declaration Form Finished Text,This is the text that will be displayed when a declaration form has been completed successfully by an individual," "," "," "," ",8,MVSI,HTML,false
+23-May-2022 16:30:50,KYC Individual Form Finished Text,This sets the text of the 'You're all finished' section of KYC individual form," "," "," "," ",8,MVSI,HTML,false
+23-May-2022 16:30:50,Verifier Assigned Email,This is the email that gets sent to a verifier when they have been assigned a verification from a partner via OnBoard," "," "," "," ",8,MVSI,HTML,false
+25-May-2022 10:18:08,Declaration Information Collection Email,This is the email that gets sent to related individuals when a declaration is used and the link is sent to the related individual," "," "," "," ",8,MVSI,Email,false
+11-Jul-2022 09:48:57,Declaration Form Finished Text - Secondary Signatories,This is the text displayed on the page for second signatories once they have signed," "," "," "," ",8,MVSI,HTML,false
+25-Jul-2022 10:40:10,Auto-Distillation Customer Help Modal,This is the content that is displayed in the help modal when an applicant is presented with the requirement to provide the Beneficial Owners of the organisation and their details.," "," "," "," ",8,MVSI,HTML,false
+25-Jul-2022 20:32:36,Book A Meeting Module Text,This is the text that is displayed at the top of the customer form if the calendar link is enabled.," "," "," "," ",8,MVSI,Text,false
+02-Aug-2022 13:03:05,Individual KYC Welcome Text,"If you are doing an individual KYC, this sets the welcome text of that page"," "," "," "," ",8,MVSI,HTML,false
+30-Dec-2022 10:44:06,Email sent to applicant to collect payment for application.,This is the email that gets sent to applicants if payment collection is enabled within the platform," "," "," "," ",8,MVSI,Email,false
+25-Jan-2023 15:11:55,New Offer Note Email Notification Body,," "," "," "," ",8,MVSI,Email,false
+12-Jun-2024 11:23:06,Bulk User Assigned as Action Owner Email,This is the email that will be sent to you when you are bulk assigned as the Action Owner for multiple records.," "," "," "," ",8,MVSI,Email,false
+12-Jun-2024 11:23:06,User Assigned as Action Owner Email,This is the email that will be sent to you when you are assigned as the Action Owner for a record.," "," "," "," ",8,MVSI,Email,false
+12-Jun-2024 11:23:06,Action Owner reassigned on Record Email,This is the email that will be sent to you have requested an update to the Action Owner on a record.," "," "," "," ",8,MVSI,Email,false
+12-Jun-2024 11:23:06,Action has been completed on a Record Email,This is the email that will be sent to you when you have requested an update to the Action completion status on a record.," "," "," "," ",8,MVSI,Email,false
