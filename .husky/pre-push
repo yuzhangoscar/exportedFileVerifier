@@ -1,1 +1,1 @@
-npx branch-naming-check
+npx branch-naming-check "^(main|develop|feature/.*|bugfix/.*|hotfix/.*|release/.*)$" "feature/example"
